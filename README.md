@@ -1,1 +1,4 @@
-# turtledraw_aw
+# Turtledraw_aw
+# author: Aaron Wilson
+# Credits: 
+Eric Pogue
